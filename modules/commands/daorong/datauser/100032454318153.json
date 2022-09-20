@@ -1,0 +1,18 @@
+{
+    "name": "Chấm Chấm Chấm",
+    "ID": "100032454318153",
+    "shield": 3,
+    "coins": 6200,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 40,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 30,
+    "timeRegister": "20:49:27, 8/4/2022"
+}
